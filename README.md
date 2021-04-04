@@ -47,12 +47,9 @@ Sequential Networks and NLP
     Long short term memory
     BERT
 
-Generative Adversarial Networks
 
-Autoencoders
+Hands on ML with scikit learn and Tensorflow 2.0 
 
-References:
 
-Deep Learning Book - Ian Goodfellow https://amzn.to/3l5pPh3
 
-Hands on ML with scikit learn and Tensorflow 2.0 - Aurélien Géron https://amzn.to/2EhcFgd
+"Muhamedabdlnapy"
